@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":[],"mappings":"2FAAA,gCAEe,4BAAM","file":"component---src-pages-index-js-9ec165ec4361d8191296.js","sourcesContent":["import React from \"react\"\r\n\r\nexport default () => <div>Rambo Engineer!</div>\r\n"],"sourceRoot":""}
